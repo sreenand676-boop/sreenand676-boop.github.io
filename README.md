@@ -1,6 +1,6 @@
 
 ---
-title: Sreenand's Writing
+Sreenand's Writing
 ---
 
 # Welcome to My Writing
